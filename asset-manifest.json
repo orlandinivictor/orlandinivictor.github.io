@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.e80cbb0d.chunk.js",
+    "main.js.map": "/static/js/main.e80cbb0d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.06b5035f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.06b5035f.js.map",
+    "static/js/2.2e1391a2.chunk.js": "/static/js/2.2e1391a2.chunk.js",
+    "static/js/2.2e1391a2.chunk.js.map": "/static/js/2.2e1391a2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.2e1391a2.chunk.js.LICENSE.txt": "/static/js/2.2e1391a2.chunk.js.LICENSE.txt",
+    "static/media/aboutMePic.d7b6dd4b.jpeg": "/static/media/aboutMePic.d7b6dd4b.jpeg",
+    "static/media/experienceBackground.5a76ba3b.png": "/static/media/experienceBackground.5a76ba3b.png",
+    "static/media/favicon.cf556728.ico": "/static/media/favicon.cf556728.ico",
+    "static/media/inspirationsBackground.324aaa2b.jpg": "/static/media/inspirationsBackground.324aaa2b.jpg",
+    "static/media/projectClonefy.9cf2c139.png": "/static/media/projectClonefy.9cf2c139.png",
+    "static/media/projectScholarAdmin.dac5b7a0.png": "/static/media/projectScholarAdmin.dac5b7a0.png",
+    "static/media/skillsBackground.cb1566c2.jpeg": "/static/media/skillsBackground.cb1566c2.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06b5035f.js",
+    "static/js/2.2e1391a2.chunk.js",
+    "static/js/main.e80cbb0d.chunk.js"
+  ]
+}
