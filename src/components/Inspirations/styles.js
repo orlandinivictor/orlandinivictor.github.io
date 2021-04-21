@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import background from '../../assets/inspirationsBackground.jpg';
 
 export const InspirationsDiv = styled.div`
-  padding: 3rem 2rem;
+  padding: 2rem 2rem;
   position: absolute;
   background-color: #e65000;
   height: 100%;
@@ -22,15 +22,19 @@ export const BackgroundDiv = styled.section`
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  filter: blur(0.2vh);
+  filter: blur(0.8vh);
   opacity: 0.25;
   z-index: 0;
 `;
 
 export const Content = styled.div`
   position: relative;
-  color: white;
+  color: #e6ecf7;
   z-index: 10;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 1rem 2rem;
+  border-radius: 0.4rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1);
 
   p {
     font-size: 1.2rem;
@@ -40,7 +44,7 @@ export const Content = styled.div`
   }
 
   h2 {
-    margin-top: 3rem;
+    margin-top: 1rem;
   }
 
   h4 {
@@ -48,7 +52,6 @@ export const Content = styled.div`
   }
 
   h3 {
-    margin-top: 1rem;
     text-align: center;
     font-size: 1.1rem;
   }
@@ -60,7 +63,7 @@ export const Content = styled.div`
     justify-content: center;
     a {
       text-decoration: none;
-      color: white;
+      color: #e6ecf7;
       transition: all 1s;
 
       &:hover {
@@ -86,6 +89,6 @@ export const Content = styled.div`
   }
 
   @media (min-width: 750px) {
-    margin-top: 5rem;
+    margin-top: 2.5rem;
   }
 `;
